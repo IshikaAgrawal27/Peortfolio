@@ -731,7 +731,7 @@ export default function Portfolio() {
                   },
                   {
                     institution: "St. Mary's Co-ed School, Harda",
-                    degree: "10th - CBBSE",
+                    degree: "10th - CBSE",
                     period: "2019 -2020",
                     grade: "Percentage: 77 / 100",
                     delay: 0.2,
