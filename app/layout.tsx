@@ -6,7 +6,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Ishika Agrawal',
   description: 'Created by Ishika Agrawal',
-  generator: 'Ishika Agrawal',
+  generator: 'Ishika Agrawal', //Icon was placed here
   icons: {
     icon: '/icon.ico',
   },
