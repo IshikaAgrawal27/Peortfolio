@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: 'Ishika Agrawal',
   description: 'Created by Ishika Agrawal',
   generator: 'Ishika Agrawal',
+  icons: {
+    icon: '/icon.ico',
+  },
 }
 
 export default function RootLayout({
