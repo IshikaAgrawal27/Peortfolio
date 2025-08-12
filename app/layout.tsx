@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: 'Created by Ishika Agrawal',
   generator: 'Ishika Agrawal', 
   icons: {
-    icon: '/d7900145-1e50-4fd3-87aa-953ea5501cad-removebg-preview (1).png', //Icon was placed here
+    icon: '/icon.png', //Icon was placed here
   },
 }
 
